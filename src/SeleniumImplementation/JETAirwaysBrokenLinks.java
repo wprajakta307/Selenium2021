@@ -19,6 +19,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class JETAirwaysBrokenLinks {
 
+//Learning github broken links
+
 	public static void main(String[] args) throws IOException {
 		/*TrustManager[] trustAllCerts = new TrustManager[]{
 				new X509TrustManager() {
