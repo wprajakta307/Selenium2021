@@ -8,6 +8,8 @@ import org.openqa.selenium.support.ui.Select;
 
 public class DropDownAndListBox {
 
+//Check the Conflicts when two different branches are modifying same Java file
+
 	public static void main(String[] args) {
 		System.setProperty("webdriver.chrome.driver","G:/study/chromedriver_win32/newDivers/chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
